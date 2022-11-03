@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+  <origen_pdf></origen_pdf>
+  <destino></destino>
+  <ip_server></ip_server>
+  <puerto></puerto>
+  <user></user>
+  <pass></pass>
+  <database></database>
+  <admin_pass></admin_pass>
+</configuration>
